@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+		<sitemap>
+			<loc>http://localhost:55042/blog/en/sitemap.xml</loc>
+			
+				<lastmod>2026-07-17T08:28:35+08:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>http://localhost:55042/blog/pt-br/sitemap.xml</loc>
+			
+		</sitemap>
+	
+</sitemapindex>

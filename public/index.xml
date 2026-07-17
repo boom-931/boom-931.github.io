@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Boom-blog</title>
+		<link>http://localhost:55042/blog/</link>
+		<description>Recent content on Boom-blog</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 17 Jul 2026 08:28:35 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:55042/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>第一篇博客</title>
+				<link>http://localhost:55042/blog/posts/my1blog/</link>
+				<pubDate>Fri, 17 Jul 2026 08:28:35 +0800</pubDate>
+				<guid>http://localhost:55042/blog/posts/my1blog/</guid>
+				<description>&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;&#xD;&#xA;  这是我的第一篇博客&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%bf%99%e6%98%af%e6%88%91%e7%9a%84%e7%ac%ac%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;这是用hugo搭建的，超级复杂，但是好像有点成功了。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

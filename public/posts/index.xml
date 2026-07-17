@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Boom-blog</title>
+		<link>http://localhost:1313/blog/posts/</link>
+		<description>Recent content in Posts on Boom-blog</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>http://localhost:1313/blog/posts/my1blog/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/posts/my1blog/</guid>
+				<description>&lt;h2 id=&#34;-head&#34;&gt;&#xD;&#xA;  &amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#-head&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h2 id=&#34;title-第一篇博客&#34;&gt;&#xD;&#xA;  draft: false&#xA;date: 2026-07-17T08:28:35+08:00&#xA;title: &amp;ldquo;第一篇博客&amp;rdquo;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#title-%e7%ac%ac%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;&#xD;&#xA;  这是我的第一篇博客&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%bf%99%e6%98%af%e6%88%91%e7%9a%84%e7%ac%ac%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h1 id=&#34;这是用hugo搭建的超级复杂但是好像有点成功了&#34;&gt;&#xD;&#xA;  这是用hugo搭建的，超级复杂，但是好像有点成功了。&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%bf%99%e6%98%af%e7%94%a8hugo%e6%90%ad%e5%bb%ba%e7%9a%84%e8%b6%85%e7%ba%a7%e5%a4%8d%e6%9d%82%e4%bd%86%e6%98%af%e5%a5%bd%e5%83%8f%e6%9c%89%e7%82%b9%e6%88%90%e5%8a%9f%e4%ba%86&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;title-第一篇博客-1&#34;&gt;&#xD;&#xA;  draft: false&#xA;date: 2026-07-17T08:28:35+08:00&#xA;title: &amp;ldquo;第一篇博客&amp;rdquo;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#title-%e7%ac%ac%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2-1&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h1 id=&#34;这是我的第一篇博客-1&#34;&gt;&#xD;&#xA;  这是我的第一篇博客&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%bf%99%e6%98%af%e6%88%91%e7%9a%84%e7%ac%ac%e4%b8%80%e7%af%87%e5%8d%9a%e5%ae%a2-1&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;这是用hugo搭建的，超级复杂，但是好像有点成功了。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;f9d2a1e4d0f99b805f73325843377dc5e5e63c1e&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
+</rss>
